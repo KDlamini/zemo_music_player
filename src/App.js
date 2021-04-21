@@ -4,6 +4,12 @@ import Player from './components/Player'
 function App() {
     const [songs] = useState([
         {
+            title: "Golden",
+            artist: "Harry Styles",
+            img_src: "./images/harry-syles-fine-line-album-cover.jpeg",
+            src: "./music/Harry Styles - Golden (Official).mp3"
+        },
+        {
             title: "Watermerlon Sugar",
             artist: "Harry Styles",
             img_src: "./images/harry-syles-fine-line-album-cover.jpeg",
