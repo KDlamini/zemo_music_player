@@ -1,9 +1,9 @@
 :root {
-  --main-shadow: 5px 5px 10px #541c53,
-                -5px -5px 10px #722671;
-  --inner-shadow: inset 5px 5px 10px #541c53,
-                  inset -5px -5px 10px #722671;
-  --background: linear-gradient(145deg, #6a2369, #591e58);
+  --main-shadow: 5px 5px 10px #4a1849,
+                -5px -5px 10px #642063;
+  --inner-shadow: inset 5px 5px 10px #4a1849,
+                  inset -5px -5px 10px #642063;
+  --background: linear-gradient(145deg, #5d1e5c, #4e194d);
 }
 
 *{
