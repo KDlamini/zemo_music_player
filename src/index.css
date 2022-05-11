@@ -1,6 +1,6 @@
 :root {
-  --main-shadow: 5px 5px 10px #4a1849,
-                -5px -5px 10px #642063;
+  --main-shadow: 1px 1px 2px #473847,
+                -2px -2px 4px #cab7ca;
   --inner-shadow: inset 5px 5px 10px #4a1849,
                   inset -5px -5px 10px #642063;
   --background: linear-gradient(145deg, #5d1e5c, #4e194d);
@@ -14,10 +14,6 @@
 }
 
 body {
-  background-image: url("baron-zemo-mask-minimalist-design.png");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -38,7 +34,7 @@ body {
   align-items: center;
   justify-content: space-between;
   box-shadow:  var(--main-shadow);
-  border-radius: 20px;
+  border-radius: 5px;
   padding: 3%;
   width: 30vw;
   height: 90vh;
